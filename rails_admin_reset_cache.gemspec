@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminResetCache::VERSION
   s.authors     = ["azaupa"]
   s.email       = ["azaupa@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminResetCache."
-  s.description = "TODO: Description of RailsAdminResetCache."
+  s.homepage    = "https://github.com/omnys/rails_admin_reset_cache"
+  s.summary     = "Summary of RailsAdminResetCache."
+  s.description = "Description of RailsAdminResetCache."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
